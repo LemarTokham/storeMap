@@ -1,0 +1,26 @@
+# ======================
+# Frontend (Vite / React)
+# ======================
+node_modules/
+dist/
+
+# Local env files
+.env
+.env.*
+
+# ======================
+# Backend (Python)
+# ======================
+__pycache__/
+*.pyc
+env/
+venv/
+
+# ======================
+# Common editor junk
+# ======================
+.vscode/
+.idea/
+
+# Logs
+*.log
