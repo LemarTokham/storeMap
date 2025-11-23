@@ -2,7 +2,7 @@
 Mapping out grocery stores
 
 ## For frontend downloads
-1. go into the frontend folder
+1. go into the frontend/my-react-app folder (i messed up i know)
 2. run npm install
 
 ## For backend downloads
